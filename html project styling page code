@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>UMS</title>
+<!--  fontawesome-->
+  <link href="UMS Styling (2).css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+
+
+<div class="my_menu">
+ <ul class="menu">
+    <li class="C:\Users\HP\Downloads\lpulogo.png"><a href=><img src="C:\Users\HP\Downloads\pragyan's pic.jfif"height="54px"></a></li>                          
+     <li><a href="#">Home</a></li>
+     <li><a href="timetable (2).html">Time Table</a>
+     <li><a href="index2.html">Change Password</a></li>
+     <li><a href="index3.html">Contact Us</a></li>
+     <li><a href="C:\Users\HP\Downloads\pragyan's pic.jfif">Logout</a></li>
+ </ul>
+ </div>
+
+
+C:\Users\
+<!-- banner-->
+<div id="banner">
+    <img src="C:\Users\Shashank\Downloads\LPU Banner (1).jpeg" alt="banner">
+    </div> 
+<hr>
+    <div class="container">
+        <div class="iteam">
+            <img src="C:\Users\Shashank\Downloads\Profile pic.png" alt="Profile Photo" width="80%">
+            <br><br><br><br>
+            <table class="pro">
+                <tr>
+                    <td>Name</td>
+                    <td>PRAGYAN BANSAL</td>
+                </tr>
+                <tr>
+                    <td>Registration No. :</td>
+                    <td>12220356</td>
+                </tr>
+                <tr>
+                    <td>Section</td>
+                    <td>KOC48</td>
+                </tr>
+                <tr>
+                    <td>Roll No. :</td>
+                    <td>RKOC48A60</td>
+                </tr>
+                <tr>
+                    <td>Group</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Programme</td>
+                    <td>P132: B.Tech(Computer Science And ENGINEERING</td>
+                </tr>
+            </table>
+
+
+        </div>
+        <div class="iteam1">
+            <table class="qwerty">
+                <tr>
+                    <th>Subject Code</th>
+                    <th>My Courses</th>
+                    <th>Attendance</th>
+                </tr>
+                <tr>
+                    <td>CSE111</td>
+                    <td>ORIENTATION TO COMPUTING-I</td>
+                    <td>100%</td>
+                </tr>
+                <tr>
+                    <td>CSE326</td>
+                    <td>INTERNET PROGRAMMING LABORATORY</td>
+                    <td>100</td>
+                </tr>
+                <tr>
+                    <td>INT 108</td>
+                    <td>PYTHON PROGRAMMING</td>
+                    <td>98%</td>
+                </tr>
+                <tr>
+                    <td>MEC 135</td>
+                    <td>BASICS OF MECHANICAL ENGINEERING</td>
+                    <td>96%</td>
+                </tr>
+                <tr>
+                    <td>MTH174</td>
+                    <td>ENGINEERING MATHEMATICS</td>
+                    <td>92%</td>
+                </tr>
+                <tr>
+                    <td>PES318</td>
+                    <td>SOFT SKILLS-I</td>
+                    <td>98%</td>
+                </tr>
+                <tr>
+                    <td>PHY110</td>
+                    <td>ENGINEERING PHYSICS</td>
+                    <td>100%</td>
+                </tr>
+            </table>
+
+        </div>
+        
+    
+        <div class="iteam2">
+            <h1>Teacher on Leave</h1>
+          <table>
+            <ul>
+            <tr>Course Code: CSE 326</tr><br>
+            <tr>Teacher Name: MRS ASHIMA  </tr><br>
+            <tr>Section:KOC48 </tr><br>
+            <tr>Day Span: Half Day</tr>
+          </ul>
+            <hr>
+          </table>
+        </div>
+        <div class="iteam3">
+            <h1>Upcoming Event</h1>
+
+        </div>
+        <div class="iteam4">
+            <h1>Today's Time Table</h1>
+            <table>
+              <tr>
+                <td>TIME</td>
+                <TD>COURSE</TD>
+                <TD>ROOM NUMBER</TD>
+               </tr>
+               <TR>
+                <TD>01-02PM</TD>
+                <TD>CSE111</TD>
+                <TD>34-506</TD>
+               </TR>
+               <TR>
+                <TD>02-03PM</TD>
+                <TD>CSE326</TD>
+                <TD>25-602</TD>
+               </TR>
+               <TR>
+                <TD>03-04PM</TD>
+                <TD>INT108</TD>
+                <TD>25-608</TD>
+               </TR>
+               <TR>
+                <TD>04-05PM</TD>
+                <TD>MEC135</TD>
+                <TD>38-805</TD>
+               </TR>
+  
+            </table>
+        </div>
+</div>
+              
+ <section class="footer">
+     <div class="footer_div">
+         <h1>ABOUT US</h1>
+         <p>Lovely Professional University is one of the premier institutions of international repute and an avant - garde campus spread over 600 acres on the outskirts of Jalandhar City.<br>
+<button type="button">Read More</button>
+         </p>
+     </div>
+     
+          <div class="footer_div">
+         <h1>Student Services</h1>
+         <ul>
+             <li>Counseling Psychologist Appointment</li>
+             <li>Doctor Appointment</li>
+             <li>View Request Status</li> 
+             <li>Log Request</li>
+         </ul> 
+         
+     </div>
+     
+          <div class="footer_div">
+         <h1>ACADEMICS</h1>
+            <ul>
+             <li>Admission Procedure</li>
+             <li>Sports Corner</li>
+             <li>Library</li>
+             <li>Dimensions Of School</li> 
+             <li>Transport Facility</li>  
+         </ul>
+     </div>
+     
+          <div class="footer_div">
+         <h1>SOCIAL LINKS</h1>
+         <ul>
+            <li>Wikipedia</li>
+            <li>Facebook</li>
+            <li>Twitter</li>
+            <li>Instagram</li>
+            <li>Youtube</li>
+            
+         </ul>
+
+     </div>
+     
+    <div class="under_footer">
+     <div class="footer1"><p>Copyright © All Rights Reserved</p></div>
+     <div class="footer1"><p>Designed by PRAGYAN, RAJAT</p></div>
+     
+ </div> 
+</section>
+
+
+
+ 
+</body>
+</html>
